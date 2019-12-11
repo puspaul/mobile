@@ -1,4 +1,6 @@
+<?php header( 'Location: /welcome.blade.php' ) ;  ?>
 <?php
+
 
 /**
  * Laravel - A PHP Framework For Web Artisans
